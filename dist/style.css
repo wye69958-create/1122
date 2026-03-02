@@ -1,1 +1,6 @@
-body { background-color:#Fee5F5}
+body { 
+    background: linear-gradient(135deg, #c0c0c0 0%, #e8e8e8 100%);
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
